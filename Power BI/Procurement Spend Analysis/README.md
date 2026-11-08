@@ -7,7 +7,7 @@ Power BI dashboard analyzing procurement expenditure, supplier performance, and 
 Power BI | Excel | DAX | Power Query
 
 ## Dashboard
-![Procurement Spend Analysis Dashboard](images/procurement-dashboard.png)
+![Procurement Spend Analysis Dashboard](procurement-dashboard.png)
 
 ## Key Metrics
 - **Spend:** R19.75M
